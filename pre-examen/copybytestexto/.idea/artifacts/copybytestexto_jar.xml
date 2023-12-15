@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="copybytestexto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/copybytestexto_jar</output-path>
+    <root id="archive" name="copybytestexto.jar">
+      <element id="module-output" name="copybytestexto" />
+    </root>
+  </artifact>
+</component>

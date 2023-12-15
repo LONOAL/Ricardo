@@ -1,0 +1,180 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	D:\Oculus\Support\oculus-runtime\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_381 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	D:\Oculus\Support\oculus-runtime\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_381 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	D:\Oculus\Support\oculus-runtime\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_381 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;D:\Oculus\Support\oculus-runtime;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	D:\Oculus\Support\oculus-runtime\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\JetBrains\Toolbox\scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\PC-LORENZO\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_381 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC-LORENZO\Documents\Teleco\Datos\copybytestexto\out\si.exe"
+Args length:	75/32768 chars
+Exit code:	0
